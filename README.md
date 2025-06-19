@@ -11,7 +11,7 @@ Although functional, the first version had layout and responsiveness issues.
 After improving up my skills, I decided to rebuild it from scratch to improve the design, structure, and user experience.
 
 > 🎬 Want to see how I rebuilt it from the ground up?  
-> 👉 Visit my Youtube Channel (https://youtu.be/tgg5P7T9S40?si=nsrxTIfGhbDw8uLx) to watch the full rebuilding series!
+> 👉 [Visit my YouTube channel](https://youtu.be/tgg5P7T9S40?si=nsrxTIfGhbDw8uLx) to watch the full rebuilding series!
 
 🌐 Live Demo
 
